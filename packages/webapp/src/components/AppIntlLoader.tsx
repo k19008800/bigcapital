@@ -14,6 +14,7 @@ import { useSplashLoading } from '@/hooks/state';
 const SUPPORTED_LOCALES = [
   { name: 'English', value: 'en' },
   { name: 'العربية', value: 'ar' },
+  { name: '中文', value: 'zh-CN' },
 ];
 
 /**
